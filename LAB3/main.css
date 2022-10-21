@@ -1,0 +1,13 @@
+h1 {
+    font-size:28px; 
+    color:RED
+}
+
+ol{
+    color:blue
+}
+
+table, td {
+    border: 5px solid orange; 
+    border-collapse: collapse;
+}
